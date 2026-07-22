@@ -4,7 +4,7 @@
   icon: fa-star
   links: 
     - title: YouTube
-      logo: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
       url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
       description: 一个专注于软件安装，科学上网教学的频道！
     - title: 资源博客
