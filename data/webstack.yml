@@ -75,7 +75,7 @@
 
 
 - taxonomy: AI推荐
-  icon: fa-star
+  icon: fa-microchip
   list: 
     - term: AI生图
       links:
