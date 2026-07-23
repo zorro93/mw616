@@ -76,11 +76,29 @@
 
 - taxonomy: AI推荐
   icon: fa-star
-  links: 
-    - title: YouTube
-      logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
-      url: https://www.youtube.com
-      description: 一个专注于记录生活视频的频道！
+  list: 
+    - term: AI生图
+      links:
+        - title: Producthunt
+          logo: images/logos/producthunt.png
+          url: https://www.producthunt.com/
+          description: 发现新鲜有趣的产品
+
+
+    - term: AI配音
+      links:
+        - title: Producthunt
+          logo: images/logos/producthunt.png
+          url: https://www.producthunt.com/
+          description: 发现新鲜有趣的产品
+
+
+    - term: AI视频
+      links:
+        - title: Producthunt
+          logo: images/logos/producthunt.png
+          url: https://www.producthunt.com/
+          description: 发现新鲜有趣的产品
 
 
 - taxonomy: 社区咨询
