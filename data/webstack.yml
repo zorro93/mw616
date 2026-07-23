@@ -293,7 +293,86 @@
           logo: images/logos/simplelineicons.png
           url: http://simplelineicons.com/
           description: Simple line Icons pack
-      
+        - title: Iconfont
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.iconfont.cn
+          url: https://www.iconfont.cn
+          description: 阿里矢量图标库，国内主流矢量图标素材平台！
+        - title: Flaticon
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.flaticon.com
+          url: https://www.flaticon.com
+          description: 全球海量图标素材站，支持SVG/PNG多种格式下载！
+        - title: Iconfinder
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.iconfinder.com
+          url: https://www.iconfinder.com
+          description: 专业图标交易与检索平台，百万级矢量图标资源！
+        - title: Icons8
+          logo: https://www.google.com/s2/favicons?sz=64&domain=icons8.com
+          url: https://icons8.com
+          description: 多风格图标、插画素材，内置在线图标编辑器！
+        - title: Heroicons
+          logo: https://www.google.com/s2/favicons?sz=64&domain=heroicons.com
+          url: https://heroicons.com
+          description: Tailwind官方开源图标，简约web界面矢量图标！
+        - title: Remix Icon
+          logo: https://www.google.com/s2/favicons?sz=64&domain=remixicon.com
+          url: https://remixicon.com
+          description: 开源中性风格图标库，线性填充两套图标体系！
+        - title: Tabler Icons
+          logo: https://www.google.com/s2/favicons?sz=64&domain=tabler.io
+          url: https://tabler.io/icons
+          description: 免费商用线性图标，数量庞大持续更新！
+        - title: Font Awesome
+          logo: https://www.google.com/s2/favicons?sz=64&domain=fontawesome.com
+          url: https://fontawesome.com
+          description: 老牌前端图标库，网页开发广泛使用的图标字体！
+        - title: Material Symbols
+          logo: https://www.google.com/s2/favicons?sz=64&domain=fonts.google.com
+          url: https://fonts.google.com/icons
+          description: Google官方材质图标，支持动态调整粗细样式！
+        - title: Feather Icons
+          logo: https://www.google.com/s2/favicons?sz=64&domain=feathericons.com
+          url: https://feathericons.com
+          description: 极简轻量线性开源图标，适合简洁UI设计！
+        - title: Bootstrap Icons
+          logo: https://www.google.com/s2/favicons?sz=64&domain=icons.getbootstrap.com
+          url: https://icons.getbootstrap.com
+          description: Bootstrap配套开源图标，适配网页后台开发！
+        - title: Simple Icons
+          logo: https://www.google.com/s2/favicons?sz=64&domain=simpleicons.org
+          url: https://simpleicons.org
+          description: 海量品牌Logo矢量图标，社交平台标识首选！
+        - title: Phosphor Icons
+          logo: https://www.google.com/s2/favicons?sz=64&domain=phosphoricons.com
+          url: https://phosphoricons.com
+          description: 多字重统一风格图标，分层设计友好！
+        - title: SVG Repo
+          logo: https://www.google.com/s2/favicons?sz=64&domain=svgrepo.com
+          url: https://www.svgrepo.com
+          description: 免费SVG图标聚合站点，大量可商用矢量素材！
+        - title: IconScout
+          logo: https://www.google.com/s2/favicons?sz=64&domain=iconscout.com
+          url: https://iconscout.com
+          description: 一站式设计素材平台，图标、插图、3D资源齐全！
+        - title: Iconify
+          logo: https://www.google.com/s2/favicons?sz=64&domain=iconify.design
+          url: https://iconify.design
+          description: 图标聚合引擎，整合上百套开源图标库！
+        - title: Iconmonstr
+          logo: https://www.google.com/s2/favicons?sz=64&domain=iconmonstr.com
+          url: https://iconmonstr.com
+          description: 黑白简约单色图标，免费下载无需注册！
+        - title: The Noun Project
+          logo: https://www.google.com/s2/favicons?sz=64&domain=thenounproject.com
+          url: https://thenounproject.com
+          description: 创意符号图标社区，设计师原创图形素材！
+        - title: IconPark
+          logo: https://www.google.com/s2/favicons?sz=64&domain=iconpark.bytedance.com
+          url: https://iconpark.bytedance.com
+          description: 字节跳动开源图标库，一键切换多种图标样式！
+        - title: Boxicons
+          logo: https://www.google.com/s2/favicons?sz=64&domain=boxicons.com
+          url: https://boxicons.com
+          description: 简约开源图标库，提供线性与填充两种样式！
     - term: LOGO设计
       links:
         - title: Iconsfeed
