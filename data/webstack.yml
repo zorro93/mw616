@@ -74,6 +74,31 @@
       description: 一线的APP推广项目分发和流量变现平台
 
 
+- taxonomy: AI推荐
+  icon: fa-microchip
+  list: 
+    - term: AI生图
+      links:
+        - title: Producthunt
+          logo: images/logos/producthunt.png
+          url: https://www.producthunt.com/
+          description: 发现新鲜有趣的产品
+
+    - term: AI配音
+      links:
+        - title: Producthunt
+          logo: images/logos/producthunt.png
+          url: https://www.producthunt.com/
+          description: 发现新鲜有趣的产品
+  
+    - term: AI视频
+      links:
+        - title: Producthunt
+          logo: images/logos/producthunt.png
+          url: https://www.producthunt.com/
+          description: 发现新鲜有趣的产品
+
+
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
   links: 
