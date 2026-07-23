@@ -74,6 +74,15 @@
       description: 一线的APP推广项目分发和流量变现平台
 
 
+- taxonomy: AI推荐
+  icon: fa-star
+  links: 
+    - title: YouTube
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
+      url: https://www.youtube.com
+      description: 一个专注于记录生活视频的频道！
+
+
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
   links: 
