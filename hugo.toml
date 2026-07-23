@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "zh-CN"
-title = "mw616综合导航站"
+title = "mw616导航站"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
