@@ -7,12 +7,12 @@ theme = "hugo-webstack"
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "afx"
+copyright = "mw"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "网址导航,webstack,hugo,vpn,科学上网，免费节点，爱分享，科技共享"
-  description = "Webstack Hugo版主题,网址导航"
+  keywords = "网址导航,webstack,网上资源，免费资源，mw分享，资源搜索，资源导航，"
+  description = "资源导航，网址导航"
 
 #是否开启搜索栏，true开启，false关闭
 [params.search]
