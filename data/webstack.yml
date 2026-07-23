@@ -78,6 +78,7 @@
   icon: fa-microchip
   list: 
     - term: AI生图
+      icon: fa-microchip
       links:
         - title: Producthunt
           logo: images/logos/producthunt.png
