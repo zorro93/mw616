@@ -162,113 +162,88 @@
 
     - term: AI配音
       links:
-- title: ElevenLabs
-  logo: https://google.com
-  url: https://elevenlabs.io
-  description: 全球公认最顶尖的AI语音生成与克隆平台，支持多语言，能完美捕捉语境并展现极具情感起伏的真人级配音。
-
-- title: Murf.ai
-  logo: https://google.com
-  url: https://murf.ai
-  description: 专为企业、播客和营销人员打造的工作室级AI配音工具，界面强大且富有表现力，支持语调、停顿与语速的精细化调节。
-
-- title: 讯飞配音
-  logo: https://google.com
-  url: https://xunfei.cn
-  description: 国内智能语音巨头科大讯飞旗下的核心AI配音平台，依托顶尖中文语音技术，广泛应用于商用广告、有声读物与政企宣传。
-
-- title: 逗哥配音
-  logo: https://google.com
-  url: https://douge.com
-  description: 国内爆款全流程AI配音神器，拥有1000+丰富音色库，完美覆盖影视解说、动漫角色、带货主播及多种地方方言。
-
-- title: PlayHT
-  logo: https://google.com
-  url: https://play.ht
-  description: 备受开发者与内容创作者青睐的API驱动型AI配音平台，提供覆盖近百种语言的庞大超真实人声音色库。
-
-- title: 智影 (腾讯旗下的AI音视频创作平台)
-  logo: https://google.com
-  url: https://qq.com
-  description: 腾讯打造的智能视频创作平台，其内置的AI文本配音与数字人播报功能专业度极高，深受主流自媒体作者喜爱。
-
-- title: Lovo.ai (Genny)
-  logo: https://google.com
-  url: https://lovo.ai
-  description: 屡获殊荣的下一代AI语音生成器和文本转语音平台，集成了视频编辑、情感配音及AI声音克隆等全栈功能。
-
-- title: Fish Audio
-  logo: https://google.com
-  url: https://fish.audio
-  description: 新一代前沿开源及商用AI语音工具集，除超逼真的文本转语音外，还支持音效生成、声音克隆及人声分离。
-
-- title: Speechify
-  logo: https://google.com
-  url: https://speechify.com
-  description: 全球顶尖的语音AI助手，擅长将高密度的书籍、报告和长文本转化为极致流畅、自然的真人有声朗读。
-
-- title: 标贝科技
-  logo: https://google.com
-  url: https://data-baker.com
-  description: 国内领先的智能语音交互技术平台，提供极高性价比的高保真AI声音定制，广泛服务于各类音视频及商业出海场景。
-
-- title: WellSaid Labs
-  logo: https://google.com
-  url: https://wellsaidlabs.com
-  description: 主打企业培训和专业演示的高端AI配音工作室，支持获得真实配音演员授权的高品质、合规企业级音色。
-
-- title: Descript
-  logo: https://google.com
-  url: https://descript.com
-  description: 革命性的音视频编辑器，内置其王牌 Overdub 功能，允许用户直接像编辑 Word 文档一样通过修改或输入文本来合成/修正配音。
-
-- title: TTSMaker (马克配音)
-  logo: https://google.com
-  url: https://ttsmaker.com
-  description: 备受欢迎的全球化免登录AI配音网站，支持多语种及丰富的商用音色，为自媒体及跨国内容制作提供极大的便利。
-
-- title: Resemble AI
-  logo: https://google.com
-  url: https://resemble.ai
-  description: 企业级超真实声音克隆和AI旁白平台，能够在几秒钟内创建高度定制、带有丰富人类情感的高保真人声。
-
-- title: Ondoku (音读)
-  logo: https://google.com
-  url: https://ondoku3.com
-  description: 享誉国际的高质量免费AI语音合成网站，支持100多种语言，操作简单便捷，是制作海外朗读视频和出海配音的首选之一。
-
-- title: 熊猫宝库
-  logo: https://google.com
-  url: https://xmbk.vip
-  description: 国内知名度极高且无需下载的在线AI配音平台，自带数百位高度接近真人发声的配音员，在短视频、电影解说场景中表现惊艳。
-
-- title: Microsoft Azure Speech
-  logo: https://google.com
-  url: https://microsoft.com
-  description: 微软官方推出的企业级文本转语音服务，也是众多国内配音工具背后的底层技术来源，语气情绪细腻，对长文本处理极佳。
-
-- title: Speaktor
-  logo: https://google.com
-  url: https://speaktor.com
-  description: 专为教育工作者、创作者和数字营销人员设计的快速多语言AI画外音平台，可以将任意文本文档一键转化为多语种高质人声。
-
-- title: 九锤配音
-  logo: https://google.com
-  url: https://jiuchuipy.com
-  description: 国内成熟的多平台高品质AI配音工具，专注于短视频自媒体解说、有声小说、广告旁白及客服提示音，音色拟真度处于国内前列。
-
-- title: Cartesia
-  logo: https://google.com
-  url: https://cartesia.ai
-  description: 专注于极致低延迟的实时AI人声生成平台，其 Sonic 核心模型不仅声音自然，更以毫秒级响应速度在智能客服与实时交互领域处于顶尖地位。
+    - title: ElevenLabs
+          logo: https://www.google.com/s2/favicons?sz=64&domain=elevenlabs.io
+          url: https://elevenlabs.io
+          description: 全球顶尖AI配音平台，人声质感极强，支持语音克隆与多情绪演绎！
+    - title: Murf AI
+          logo: https://www.google.com/s2/favicons?sz=64&domain=murf.ai
+          url: https://murf.ai
+          description: 海外专业AI旁白工具，精细调节重音、停顿，适合宣传片与课程配音！
+    - title: LOVO AI
+          logo: https://www.google.com/s2/favicons?sz=64&domain=lovo.ai
+          url: https://lovo.ai
+          description: 具备丰富情感音色，支持短视频、广告、影视剧情AI配音！
+- title: Play.ht
+          logo: https://www.google.com/s2/favicons?sz=64&domain=play.ht
+          url: https://play.ht
+          description: 集成多款TTS模型，多语种在线文本转语音，适合跨境自媒体！
+    - title: WellSaid Labs
+          logo: https://www.google.com/s2/favicons?sz=64&domain=wellsaidlabs.com
+          url: https://wellsaidlabs.com
+          description: 欧美真人风格AI声线，播音质感优秀，适合播客与产品解说！
+    - title: Typecast
+          logo: https://www.google.com/s2/favicons?sz=64&domain=typecast.ai
+          url: https://typecast.ai
+          description: 韩系AI配音平台，角色音丰富，适合短剧、动画旁白创作！
+    - title: Speechify
+          logo: https://www.google.com/s2/favicons?sz=64&domain=speechify.com
+          url: https://speechify.com
+          description: 主打文档朗读，支持网页、PDF转语音，学习向AI语音工具！
+    - title: 讯飞配音
+          logo: https://www.google.com/s2/favicons?sz=64&domain=peiyin.xunfei.cn
+          url: https://peiyin.xunfei.cn
+          description: 国内老牌专业AI配音，播音腔、方言齐全，商用授权规范！
+    - title: 魔音工坊
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.moyinggf.com
+          url: https://www.moyinggf.com
+          description: 短视频解说热门工具，中文叙事流畅，适合知识类长视频！
+    - title: MiniMax
+          logo: https://www.google.com/s2/favicons?sz=64&domain=minimaxi.com
+          url: https://minimaxi.com
+          description: 国内高拟人AI语音，角色配音、有声书、情绪对话表现力出众！
+    - title: 剪映AI配音
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.capcut.cn
+          url: https://www.capcut.cn
+          description: 免费轻量化AI配音，剪辑一体，短视频创作者入门首选！
+    - title: 声咖（搜狗AI配音）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=shengka.ai.sogou.com
+          url: https://shengka.ai.sogou.com
+          description: 搜狗自研语音合成，支持多人对话、有声小说场景制作！
+    - title: TTSMaker
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ttsmaker.com
+          url: https://ttsmaker.com
+          description: 免费额度友好，多语种在线TTS，快速生成基础配音音频！
+    - title: DupDub
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.dupdub.com
+          url: https://www.dupdub.com
+          description: 跨境AI配音+视频翻译，支持双语字幕与海外短视频本地化！
+    - title: OpenAI TTS
+          logo: https://www.google.com/s2/favicons?sz=64&domain=openai.com
+          url: https://platform.openai.com/docs/guides/text-to-speech
+          description: OpenAI官方语音合成，音色自然，适合搭配GPT生态使用！
+    - title: 腾讯智影配音
+          logo: https://www.google.com/s2/favicons?sz=64&domain=zying.qq.com
+          url: https://zying.qq.com
+          description: 腾讯在线创作平台，内置多款中文AI音色，配套剪辑功能！
+    - title: NaturalReader
+          logo: https://www.google.com/s2/favicons?sz=64&domain=naturalreaders.com
+          url: https://www.naturalreaders.com
+          description: 老牌海外文本朗读网站，适合电子书、自媒体旁白录制！
+    - title: Uberduck
+          logo: https://www.google.com/s2/favicons?sz=64&domain=uberduck.ai
+          url: https://uberduck.ai
+          description: 支持AI歌唱、角色语音，适合创意二创、音乐配音创作！
+    - title: 冬瓜AI配音
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dongguangai.com
+          url: https://www.dongguangai.com
+          description: 国内短视频热门AI配音，大量带货、剧情向中文音色！
+    - title: Microsoft Azure语音
+          logo: https://www.google.com/s2/favicons?sz=64&domain=azure.microsoft.com
+          url: https://azure.microsoft.com/zh-cn/services/ai-services/speech-service
+          description: 微软神经网络语音，多语种、方言齐全，企业级稳定TTS服务！
 
 
-
-
-
-
-
-  
     - term: AI视频
       links:
         - title: Producthunt
