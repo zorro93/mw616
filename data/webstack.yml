@@ -163,9 +163,6 @@
     - term: AI配音
       links:
     - title: ElevenLabs
-- term: AI配音
-  links:
-    - title: ElevenLabs
       logo: https://www.google.com/s2/favicons?sz=64&domain=elevenlabs.io
       url: https://elevenlabs.io
       description: 全球顶尖AI配音平台，人声质感极强，支持语音克隆与多情绪演绎！
