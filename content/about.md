@@ -28,4 +28,4 @@ draft: false
 
     不过加载有点慢，使用本地图片更快。
 
-4. FontAwesome图标：[https://origin.fontawesome.com/v6/search](https://origin.fontawesome.com/v6/search/)
+4. FontAwesome图标：https://fontawesome.com/search?ic=free-collection
