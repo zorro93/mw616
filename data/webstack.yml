@@ -262,7 +262,7 @@
 
       
 - taxonomy: 素材资源
-  icon: fa-thumbs-up
+  icon: fa-solid fa-paintbrush
   list: 
     - term: 图标素材
       links:
@@ -693,7 +693,7 @@
           logo: images/logos/abstractfonts.png
           description: Abstract Fonts (13,866 free fonts)
       
-    - term: Mockup
+    - term: 模型
       links:
         - title: MockupZone
           url: https://mockup.zone/
