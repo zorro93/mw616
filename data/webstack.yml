@@ -162,10 +162,112 @@
 
     - term: AI配音
       links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
+- title: ElevenLabs
+  logo: https://google.com
+  url: https://elevenlabs.io
+  description: 全球公认最顶尖的AI语音生成与克隆平台，支持多语言，能完美捕捉语境并展现极具情感起伏的真人级配音。
+
+- title: Murf.ai
+  logo: https://google.com
+  url: https://murf.ai
+  description: 专为企业、播客和营销人员打造的工作室级AI配音工具，界面强大且富有表现力，支持语调、停顿与语速的精细化调节。
+
+- title: 讯飞配音
+  logo: https://google.com
+  url: https://xunfei.cn
+  description: 国内智能语音巨头科大讯飞旗下的核心AI配音平台，依托顶尖中文语音技术，广泛应用于商用广告、有声读物与政企宣传。
+
+- title: 逗哥配音
+  logo: https://google.com
+  url: https://douge.com
+  description: 国内爆款全流程AI配音神器，拥有1000+丰富音色库，完美覆盖影视解说、动漫角色、带货主播及多种地方方言。
+
+- title: PlayHT
+  logo: https://google.com
+  url: https://play.ht
+  description: 备受开发者与内容创作者青睐的API驱动型AI配音平台，提供覆盖近百种语言的庞大超真实人声音色库。
+
+- title: 智影 (腾讯旗下的AI音视频创作平台)
+  logo: https://google.com
+  url: https://qq.com
+  description: 腾讯打造的智能视频创作平台，其内置的AI文本配音与数字人播报功能专业度极高，深受主流自媒体作者喜爱。
+
+- title: Lovo.ai (Genny)
+  logo: https://google.com
+  url: https://lovo.ai
+  description: 屡获殊荣的下一代AI语音生成器和文本转语音平台，集成了视频编辑、情感配音及AI声音克隆等全栈功能。
+
+- title: Fish Audio
+  logo: https://google.com
+  url: https://fish.audio
+  description: 新一代前沿开源及商用AI语音工具集，除超逼真的文本转语音外，还支持音效生成、声音克隆及人声分离。
+
+- title: Speechify
+  logo: https://google.com
+  url: https://speechify.com
+  description: 全球顶尖的语音AI助手，擅长将高密度的书籍、报告和长文本转化为极致流畅、自然的真人有声朗读。
+
+- title: 标贝科技
+  logo: https://google.com
+  url: https://data-baker.com
+  description: 国内领先的智能语音交互技术平台，提供极高性价比的高保真AI声音定制，广泛服务于各类音视频及商业出海场景。
+
+- title: WellSaid Labs
+  logo: https://google.com
+  url: https://wellsaidlabs.com
+  description: 主打企业培训和专业演示的高端AI配音工作室，支持获得真实配音演员授权的高品质、合规企业级音色。
+
+- title: Descript
+  logo: https://google.com
+  url: https://descript.com
+  description: 革命性的音视频编辑器，内置其王牌 Overdub 功能，允许用户直接像编辑 Word 文档一样通过修改或输入文本来合成/修正配音。
+
+- title: TTSMaker (马克配音)
+  logo: https://google.com
+  url: https://ttsmaker.com
+  description: 备受欢迎的全球化免登录AI配音网站，支持多语种及丰富的商用音色，为自媒体及跨国内容制作提供极大的便利。
+
+- title: Resemble AI
+  logo: https://google.com
+  url: https://resemble.ai
+  description: 企业级超真实声音克隆和AI旁白平台，能够在几秒钟内创建高度定制、带有丰富人类情感的高保真人声。
+
+- title: Ondoku (音读)
+  logo: https://google.com
+  url: https://ondoku3.com
+  description: 享誉国际的高质量免费AI语音合成网站，支持100多种语言，操作简单便捷，是制作海外朗读视频和出海配音的首选之一。
+
+- title: 熊猫宝库
+  logo: https://google.com
+  url: https://xmbk.vip
+  description: 国内知名度极高且无需下载的在线AI配音平台，自带数百位高度接近真人发声的配音员，在短视频、电影解说场景中表现惊艳。
+
+- title: Microsoft Azure Speech
+  logo: https://google.com
+  url: https://microsoft.com
+  description: 微软官方推出的企业级文本转语音服务，也是众多国内配音工具背后的底层技术来源，语气情绪细腻，对长文本处理极佳。
+
+- title: Speaktor
+  logo: https://google.com
+  url: https://speaktor.com
+  description: 专为教育工作者、创作者和数字营销人员设计的快速多语言AI画外音平台，可以将任意文本文档一键转化为多语种高质人声。
+
+- title: 九锤配音
+  logo: https://google.com
+  url: https://jiuchuipy.com
+  description: 国内成熟的多平台高品质AI配音工具，专注于短视频自媒体解说、有声小说、广告旁白及客服提示音，音色拟真度处于国内前列。
+
+- title: Cartesia
+  logo: https://google.com
+  url: https://cartesia.ai
+  description: 专注于极致低延迟的实时AI人声生成平台，其 Sonic 核心模型不仅声音自然，更以毫秒级响应速度在智能客服与实时交互领域处于顶尖地位。
+
+
+
+
+
+
+
   
     - term: AI视频
       links:
