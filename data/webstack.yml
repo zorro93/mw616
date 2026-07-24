@@ -242,8 +242,8 @@
           url: https://azure.microsoft.com/zh-cn/services/ai-services/speech-service
           description: 微软神经网络语音，多语种、方言齐全，企业级稳定TTS服务！
 
-- term: AI视频
-  links:
+    - term: AI视频
+      links:
     - title: Runway
       logo: https://www.google.com/s2/favicons?sz=64&domain=runwayml.com
       url: https://runwayml.com
