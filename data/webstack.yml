@@ -262,7 +262,7 @@
           description: 侧重真实的人物运动与高质量短视频生成，适合“人+动作”的创作。
         - title: OpenAI Sora（服务入口）
           logo: https://www.google.com/s2/favicons?sz=64&domain=openai.com
-          url: https://openai.com/sora
+          url: https://openai.com
           description: 文本生成视频的代表性模型入口之一，生成质量与叙事能力受到广泛关注。
         - title: Google Veo
           logo: https://www.google.com/s2/favicons?sz=64&domain=deepmind.google
