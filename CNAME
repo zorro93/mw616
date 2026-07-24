@@ -1,1 +1,2 @@
-
+- name: Create CNAME
+  run: echo 'mw616.com'
