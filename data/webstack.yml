@@ -79,87 +79,86 @@
   list: 
     - term: AI生图
       links:
-    - title: Midjourney
+        - title: Midjourney
           logo: https://www.google.com/s2/favicons?sz=64&domain=www.midjourney.com
           url: https://www.midjourney.com
           description: 全球顶尖AI艺术图像生成平台，画面质感优秀，适合插画、写实创意创作！
-    - title: DALL·E 3
+        - title: DALL·E 3
           logo: https://www.google.com/s2/favicons?sz=64&domain=openai.com
           url: https://openai.com/dall-e-3
           description: OpenAI文生图模型，精准理解复杂提示词，支持图文协同创作！
-    - title: Adobe Firefly
+        - title: Adobe Firefly
           logo: https://www.google.com/s2/favicons?sz=64&domain=firefly.adobe.com
           url: https://firefly.adobe.com
           description: Adobe官方AI绘图工具，商用版权友好，适配设计师工作流程！
-    - title: Leonardo AI
+        - title: Leonardo AI
           logo: https://www.google.com/s2/favicons?sz=64&domain=leonardo.ai
           url: https://leonardo.ai
           description: 主打游戏原画与概念设计，内置大量专用模型与素材！
-    - title: Ideogram
+        - title: Ideogram
           logo: https://www.google.com/s2/favicons?sz=64&domain=ideogram.ai
           url: https://ideogram.ai
           description: 擅长在图像内生成清晰文字，适合海报、LOGO图文创意！
-    - title: Bing Image Creator
+        - title: Bing Image Creator
           logo: https://www.google.com/s2/favicons?sz=64&domain=bing.com
           url: https://www.bing.com/create
           description: 微软免费AI绘图，基于DALL·E，新手快速生成创意图片！
-    - title: 文心一格
+        - title: 文心一格
           logo: https://www.google.com/s2/favicons?sz=64&domain=yige.baidu.com
           url: https://yige.baidu.com
           description: 百度AI绘画平台，中文提示词适配优秀，国风古风创作强项！
-    - title: 通义万相
+        - title: 通义万相
           logo: https://www.google.com/s2/favicons?sz=64&domain=tongyi.aliyun.com
           url: https://tongyi.aliyun.com/wanxiang
           description: 阿里AI图像生成工具，电商素材、人像、国风全能创作平台！
-    - title: 即梦AI
+        - title: 即梦AI
           logo: https://www.google.com/s2/favicons?sz=64&domain=jimeng.jianying.com
           url: https://jimeng.jianying.com
           description: 剪映旗下AI绘画，适合短视频封面、潮流人像快速出图！
-    - title: DreamStudio
+        - title: DreamStudio
           logo: https://www.google.com/s2/favicons?sz=64&domain=dreamstudio.ai
           url: https://dreamstudio.ai
           description: Stability官方云端Stable Diffusion平台，可调参数丰富！
-    - title: Playground AI
+        - title: Playground AI
           logo: https://www.google.com/s2/favicons?sz=64&domain=playgroundai.com
           url: https://playgroundai.com
           description: 免费额度友好，支持多种SD模型自由切换生成图像！
-    - title: 无界AI
+        - title: 无界AI
           logo: https://www.google.com/s2/favicons?sz=64&domain=wujieai.com
           url: https://www.wujieai.com
           description: 国内AI绘画平台，二次元、国潮风格模型资源丰富！
-    - title: NovelAI
+        - title: NovelAI
           logo: https://www.google.com/s2/favicons?sz=64&domain=novelai.net
           url: https://novelai.net
           description: 知名二次元图像生成工具，人物画风表现力出色！
-    - title: Civitai
+        - title: Civitai
           logo: https://www.google.com/s2/favicons?sz=64&domain=civitai.com
           url: https://civitai.com
           description: Stable Diffusion模型分享社区，海量风格模型可供使用！
-    - title: NightCafe
+        - title: NightCafe
           logo: https://www.google.com/s2/favicons?sz=64&domain=creator.nightcafe.studio
           url: https://creator.nightcafe.studio
           description: 老牌AI艺术生成社区，多种艺术渲染风格可选！
-    - title: BlueWillow
+        - title: BlueWillow
           logo: https://www.google.com/s2/favicons?sz=64&domain=bluewillow.ai
-          url: https://wwwwww.bluewillow.ai
+          url: https://www.bluewillow.ai
           description: Discord免费AI绘图，风格贴近Midjourney，入门练习首选！
-    - title: 美图设计室
+        - title: 美图设计室
           logo: https://www.google.com/s2/favicons?sz=64&domain=design.meitu.com
           url: https://design.meitu.com
           description: 美图旗下AI创作平台，人像写真、营销海报快速制作！
-    - title: Canva 可画AI绘图
+        - title: Canva 可画AI绘图
           logo: https://www.google.com/s2/favicons?sz=64&domain=www.canva.cn
           url: https://www.canva.cn/features/ai-image-generator
           description: 在线设计平台内置AI生图，生成图片可直接排版设计海报！
-    - title: DeepAI
+        - title: DeepAI
           logo: https://www.google.com/s2/favicons?sz=64&domain=deepai.org
           url: https://deepai.org/machine-learning-model/text2img
           description: 轻量在线文生图工具，无需复杂配置快速测试出图！
-    - title: 6pen Art
+        - title: 6pen Art
           logo: https://www.google.com/s2/favicons?sz=64&domain=6pen.art
           url: https://6pen.art
           description: 国产AI绘画平台，支持艺术二维码、创意视觉图形生成！
-
 
     - term: AI配音
       links:
