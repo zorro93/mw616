@@ -244,86 +244,86 @@
 
     - term: AI视频
       links:
-    - title: Runway
-      logo: https://www.google.com/s2/favicons?sz=64&domain=runwayml.com
-      url: https://runwayml.com
-      description: 面向创意团队的 AI 视频生成与编辑工作流，支持多种生成模式与镜头控制。
-    - title: Pika
-      logo: https://www.google.com/s2/favicons?sz=64&domain=pika.art
-      url: https://pika.art
-      description: 以“提示词/参考图”快速生成社交短视频见长，交互与迭代速度快。
-    - title: Luma AI (Dream Machine)
-      logo: https://www.google.com/s2/favicons?sz=64&domain=luma.ai
-      url: https://luma.ai
-      description: Dream Machine 用于文本/图像到视频，主打快速生成与好看的短片效果。
-    - title: Kling AI
-      logo: https://www.google.com/s2/favicons?sz=64&domain=klingai.com
-      url: https://klingai.com
-      description: 侧重真实的人物运动与高质量短视频生成，适合“人+动作”的创作。
-    - title: OpenAI Sora（服务入口）
-      logo: https://www.google.com/s2/favicons?sz=64&domain=openai.com
-      url: https://openai.com/sora
-      description: 文本生成视频的代表性模型入口之一，生成质量与叙事能力受到广泛关注。
-    - title: Google Veo
-      logo: https://www.google.com/s2/favicons?sz=64&domain=deepmind.google
-      url: https://deepmind.google/technologies/veo/
-      description: Google DeepMind 的文本到视频技术展示入口，面向高保真视频生成。
-    - title: Adobe Firefly（视频生成）
-      logo: https://www.google.com/s2/favicons?sz=64&domain=adobe.com
-      url: https://firefly.adobe.com
-      description: 与 Adobe 生态结合的生成式视频能力，适合商业内容制作与工作流集成。
-    - title: Synthesia
-      logo: https://www.google.com/s2/favicons?sz=64&domain=synthesia.io
-      url: https://www.synthesia.io
-      description: 脚本生成“虚拟主持人/数字人”视频，常用于培训、营销讲解与企业内容。
-    - title: HeyGen
-      logo: https://www.google.com/s2/favicons?sz=64&domain=heygen.com
-      url: https://www.heygen.com
-      description: 数字人/虚拟讲解视频生成平台，支持多语言与语音/口型类能力（以产品为准）。
-    - title: Elai.io
-      logo: https://www.google.com/s2/favicons?sz=64&domain=elai.io
-      url: https://elai.io
-      description: 提供数字人风格的视频生成与营销自动化场景。
-    - title: Descript
-      logo: https://www.google.com/s2/favicons?sz=64&domain=descript.com
-      url: https://www.descript.com
-      description: 用“编辑文本/转写”的方式进行视频剪辑与生成式修整，偏内容生产工具。
-    - title: InVideo AI
-      logo: https://www.google.com/s2/favicons?sz=64&domain=invideo.io
-      url: https://invideo.io
-      description: 面向营销短视频的 AI 生成/模板化制作，适合批量内容与分镜脚本。
-    - title: VEED
-      logo: https://www.google.com/s2/favicons?sz=64&domain=veed.io
-      url: https://www.veed.io
-      description: 在线视频编辑 + AI 功能集合，适合快速做短视频成片。
-    - title: CapCut（AI 视频能力/模板）
-      logo: https://www.google.com/s2/favicons?sz=64&domain=capcut.com
-      url: https://www.capcut.com
-      description: 短视频剪辑与多种 AI/自动化能力结合，适合从素材到成片。
-    - title: Kaiber
-      logo: https://www.google.com/s2/favicons?sz=64&domain=kaiber.ai
-      url: https://www.kaiber.ai
-      description: 文本/图像驱动的视频生成与风格化动画创作平台。
-    - title: Runway（Gen 系列入口已含上，但用于你需要“站点分别管理”可保留）
-      logo: https://www.google.com/s2/favicons?sz=64&domain=runwayml.com
-      url: https://runwayml.com
-      description: （同上）创意工作流类 AI 视频生成与编辑。
-    - title: OpenArt
-      logo: https://www.google.com/s2/favicons?sz=64&domain=openart.ai
-      url: https://openart.ai
-      description: 面向创作者的生成式视频/多媒体生产平台（以其当前产品为准）。
-    - title: Krea
-      logo: https://www.google.com/s2/favicons?sz=64&domain=krea.ai
-      url: https://krea.ai
-      description: 实时创作套件，强调创意生成与交互式工作台体验。
-    - title: ComfyUI Cloud
-      logo: https://www.google.com/s2/favicons?sz=64&domain=comfyui.com
-      url: https://comfyui.com
-      description: 基于工作流/节点的生成式创作生态（云端入口按其发布为准），适合技术型用户做更可控生成。
-    - title: HeyGen（LiveAvatar 入口）
-      logo: https://www.google.com/s2/favicons?sz=64&domain=heygen.com
-      url: https://www.heygen.com
-      description: 数字人/互动类视频能力入口之一（按你实际订阅功能使用）。
+        - title: Runway
+          logo: https://www.google.com/s2/favicons?sz=64&domain=runwayml.com
+          url: https://runwayml.com
+          description: 面向创意团队的 AI 视频生成与编辑工作流，支持多种生成模式与镜头控制。
+        - title: Pika
+          logo: https://www.google.com/s2/favicons?sz=64&domain=pika.art
+          url: https://pika.art
+          description: 以“提示词/参考图”快速生成社交短视频见长，交互与迭代速度快。
+        - title: Luma AI (Dream Machine)
+          logo: https://www.google.com/s2/favicons?sz=64&domain=luma.ai
+          url: https://luma.ai
+          description: Dream Machine 用于文本/图像到视频，主打快速生成与好看的短片效果。
+        - title: Kling AI
+          logo: https://www.google.com/s2/favicons?sz=64&domain=klingai.com
+          url: https://klingai.com
+          description: 侧重真实的人物运动与高质量短视频生成，适合“人+动作”的创作。
+        - title: OpenAI Sora（服务入口）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=openai.com
+          url: https://openai.com/sora
+          description: 文本生成视频的代表性模型入口之一，生成质量与叙事能力受到广泛关注。
+        - title: Google Veo
+          logo: https://www.google.com/s2/favicons?sz=64&domain=deepmind.google
+          url: https://deepmind.google/technologies/veo/
+          description: Google DeepMind 的文本到视频技术展示入口，面向高保真视频生成。
+        - title: Adobe Firefly（视频生成）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=adobe.com
+          url: https://firefly.adobe.com
+          description: 与 Adobe 生态结合的生成式视频能力，适合商业内容制作与工作流集成。
+        - title: Synthesia
+          logo: https://www.google.com/s2/favicons?sz=64&domain=synthesia.io
+          url: https://www.synthesia.io
+          description: 脚本生成“虚拟主持人/数字人”视频，常用于培训、营销讲解与企业内容。
+        - title: HeyGen
+          logo: https://www.google.com/s2/favicons?sz=64&domain=heygen.com
+          url: https://www.heygen.com
+          description: 数字人/虚拟讲解视频生成平台，支持多语言与语音/口型类能力（以产品为准）。
+        - title: Elai.io
+          logo: https://www.google.com/s2/favicons?sz=64&domain=elai.io
+          url: https://elai.io
+          description: 提供数字人风格的视频生成与营销自动化场景。
+        - title: Descript
+          logo: https://www.google.com/s2/favicons?sz=64&domain=descript.com
+          url: https://www.descript.com
+          description: 用“编辑文本/转写”的方式进行视频剪辑与生成式修整，偏内容生产工具。
+        - title: InVideo AI
+          logo: https://www.google.com/s2/favicons?sz=64&domain=invideo.io
+          url: https://invideo.io
+          description: 面向营销短视频的 AI 生成/模板化制作，适合批量内容与分镜脚本。
+        - title: VEED
+          logo: https://www.google.com/s2/favicons?sz=64&domain=veed.io
+          url: https://www.veed.io
+          description: 在线视频编辑 + AI 功能集合，适合快速做短视频成片。
+        - title: CapCut（AI 视频能力/模板）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=capcut.com
+          url: https://www.capcut.com
+          description: 短视频剪辑与多种 AI/自动化能力结合，适合从素材到成片。
+        - title: Kaiber
+          logo: https://www.google.com/s2/favicons?sz=64&domain=kaiber.ai
+          url: https://www.kaiber.ai
+          description: 文本/图像驱动的视频生成与风格化动画创作平台。
+        - title: Runway（Gen 系列入口已含上，但用于你需要“站点分别管理”可保留）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=runwayml.com
+          url: https://runwayml.com
+          description: （同上）创意工作流类 AI 视频生成与编辑。
+        - title: OpenArt
+          logo: https://www.google.com/s2/favicons?sz=64&domain=openart.ai
+          url: https://openart.ai
+          description: 面向创作者的生成式视频/多媒体生产平台（以其当前产品为准）。
+        - title: Krea
+          logo: https://www.google.com/s2/favicons?sz=64&domain=krea.ai
+          url: https://krea.ai
+          description: 实时创作套件，强调创意生成与交互式工作台体验。
+        - title: ComfyUI Cloud
+          logo: https://www.google.com/s2/favicons?sz=64&domain=comfyui.com
+          url: https://comfyui.com
+          description: 基于工作流/节点的生成式创作生态（云端入口按其发布为准），适合技术型用户做更可控生成。
+        - title: HeyGen（LiveAvatar 入口）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=heygen.com
+          url: https://www.heygen.com
+          description: 数字人/互动类视频能力入口之一（按你实际订阅功能使用）。
 
 
 - taxonomy: 社区咨询
